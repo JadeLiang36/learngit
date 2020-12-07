@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+
+
+
+
 	<head>
 		<meta charset="UTF-8">
 		<title>toMyWeb</title>
@@ -28,7 +32,11 @@
 	<body>
 		<form action="EnterMyWeb.php" method="post">
 			<div id="main" class="main"> 
+
 				<h3>Do you really want to </h3>
+
+				<h3>Do you want to </h3>
+
 				<h3>enter the Website?</h3>
 			</div>
 		 	<div class="hint">
